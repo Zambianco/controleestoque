@@ -408,13 +408,13 @@
       <string>Histórico:</string>
      </property>
     </widget>
-    <widget class="QTableWidget" name="tableWidget_movimentacao_2">
+    <widget class="QTableWidget" name="tableWidget_historico">
      <property name="geometry">
       <rect>
        <x>10</x>
        <y>30</y>
        <width>581</width>
-       <height>161</height>
+       <height>341</height>
       </rect>
      </property>
      <property name="editTriggers">
@@ -523,3 +523,4 @@
  <resources/>
  <connections/>
 </ui>
+
